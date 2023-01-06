@@ -1,6 +1,5 @@
- <script src="https://cdn.tailwindcss.com"></script>
-Salut, je suis Robin Lanfranchi, 
-<h1 class="text-blue-600 mt-12">youppii</h1>
+
+<h1>Salut, je suis Robin Lanfranchi</h1>
 
 - 💻 dev full stack junior 
 - ⏳ en train d'approfondir mes connaissance en back
