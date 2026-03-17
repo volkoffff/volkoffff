@@ -1,131 +1,108 @@
 # Hey, I'm Robin Lanfranchi
 
-**Engineering student @[UTC](https://www.utc.fr/) · Sofware Developer · Building things that matter.**
+**Engineering student @ [UTC](https://www.utc.fr/) · Software Developer · Building things that matter.**
 
-> [!WARNING]
+> [!NOTE]
 > Currently looking for a **6-month internship starting September 2025**.
 
 <a href="https://robin-lanfranchi.fr"><img src="https://img.shields.io/badge/Portfolio-robin--lanfranchi.fr-58a6ff?style=flat-square" /></a>
 <a href="https://linkedin.com/in/robin-lanfranchi"><img src="https://img.shields.io/badge/LinkedIn-Robin_Lanfranchi-58a6ff?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:robin.lanfranchi1338@gmail.com"><img src="https://img.shields.io/badge/Mail-robin.lanfranchi1338-58a6ff?style=flat-square&logo=gmail&logoColor=white" /></a>
 
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Expérience Professionnelle
-
-<table>
-<tr>
-<td width="120" align="center"><b>Altermaker</b><br><sub>Alternance</sub></td>
-<td>
-<b>Développeur Front-End</b> — Web-app de calculs d'empreintes environnementales<br>
-<sub>Clients : <b>JCDecaux</b> · <b>Schneider Electric</b> · <b>Safran</b> · <b>FCBA</b></sub><br><br>
-<code>React.js</code> <code>Tailwind</code> <code>Shadcn/ui</code> <code>API REST</code> <code>Data Viz</code> <code>MCD/MLD</code>
-<ul>
-<li>Conception d'interfaces complètes (site-map → design system → wireframe → maquette → prod)</li>
-<li>Optimisation de requêtes API pour nomenclatures complexes de modélisation produit</li>
-<li>Data visualisations réactives temps réel pour calculs environnementaux (ACV)</li>
-<li>Co-conception de l'architecture BDD optimisée</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><b>Rolix</b><br><sub>Projet / Alternance</sub></td>
-<td>
-<b>Bibliothèque React.js</b> — Composants documentés & maintenables<br><br>
-<code>React.js</code> <code>Zod</code> <code>React-Hook-Form</code> <code>Tailwind</code> <code>Shadcn/ui</code> <code>Figma</code>
-<ul>
-<li>Création d'une lib de composants avec documentation complète + Figma associé</li>
-<li>Générateur de formulaires drag & drop utilisant Zod + React-Hook-Form</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><b>Paoline.K</b><br><sub>Freelance</sub></td>
-<td>
-<b>Développeur Full-Stack</b> — Galerie d'art en ligne<br><br>
-<code>Symfony</code> <code>API Platform</code> <code>React.js</code> <code>GSAP</code> <code>Axios</code>
-<ul>
-<li>Conception BDD + API REST avec Symfony & API Platform</li>
-<li>Interface animée avec GSAP pour une expérience immersive</li>
-</ul>
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-<details open>
-<summary><b>Langages</b></summary>
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Lisp](https://img.shields.io/badge/Lisp-0d1117?style=for-the-badge&logo=commonlisp&logoColor=white)
+## Experience
 
-</details>
+**Altermaker** · *Alternance* — Développeur Front-End
+> Web-app de calculs d'empreintes environnementales
+> 
+> Clients : **JCDecaux** · **Schneider Electric** · **Safran** · **FCBA**
 
-<details open>
-<summary><b>Front-End</b></summary>
+`React.js` `Tailwind` `Shadcn/ui` `API REST` `Data Viz` `MCD/MLD`
+
+- Conception d'interfaces complètes (site-map → design system → wireframe → maquette → prod)
+- Optimisation de requêtes API pour nomenclatures complexes de modélisation produit
+- Data visualisations réactives temps réel pour calculs environnementaux (ACV)
+- Co-conception de l'architecture BDD optimisée
+
 <br>
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0d1117?style=for-the-badge&logo=alpine.js&logoColor=8BC0D0)
+**Rolix** · *Projet / Alternance* — Bibliothèque React.js
+> Composants documentés & maintenables
 
-</details>
+`React.js` `Zod` `React-Hook-Form` `Tailwind` `Shadcn/ui` `Figma`
 
-<details open>
-<summary><b>Back-End & BDD</b></summary>
+- Création d'une lib de composants avec documentation complète + Figma associé
+- Générateur de formulaires drag & drop utilisant Zod + React-Hook-Form
+
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-0d1117?style=for-the-badge&logo=symfony&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+**Paoline.K** · *Freelance* — Développeur Full-Stack
+> Galerie d'art en ligne
 
-</details>
+`Symfony` `API Platform` `React.js` `GSAP` `Axios`
 
-<details open>
-<summary><b>DevOps & Outils</b></summary>
+- Conception BDD + API REST avec Symfony & API Platform
+- Interface animée avec GSAP pour une expérience immersive
+
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)
+## Tech Stack
 
-</details>
+**Langages**
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-3F5FB7?style=flat&logo=commonlisp&logoColor=white)
+
+**Front-End**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
+
+**Back-End & BDD**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**DevOps & Outils**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+<br>
 
 ## Formation
 
-| | Diplôme | Lieu | Période |
-|---|---|---|---|
-| :mortar_board: | **Cycle Ingénieur — Génie Informatique** | UTC, Compiègne | 2024 — 2027 |
-| :books: | **BUT MMI** — Spé. Développement Web | Université de Reims, Troyes | 2021 — 2024 |
+| Diplôme | Lieu | Période |
+|---|---|---|
+| **Cycle Ingénieur — Génie Informatique** | UTC, Compiègne | 2024 — 2027 |
+| **BUT MMI** — Spé. Développement Web | Université de Reims, Troyes | 2021 — 2024 |
 
----
+<br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="25"> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -149,15 +126,7 @@
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=volkoffff&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS" />
-
-<br><br>
-
-*Ouvert aux opportunités — Stage assistant ingénieur de 6 mois à partir de septembre 2025*
-
-**[robin-lanfranchi.fr](https://robin-lanfranchi.fr)**
-
+<sub>Ouvert aux opportunités — Stage assistant ingénieur de 6 mois à partir de septembre 2025</sub>
+<br>
+<a href="https://robin-lanfranchi.fr"><b>robin-lanfranchi.fr</b></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
